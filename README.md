@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Subhas Hegde <br>💡 Building AI tools that make information more accessible  <br>🧠 Currently working on: BriefAI– A YouTube Summarizer with multilingual, TTS, and sentiment analysis support   <br>🛠️ Tech Stack: Java | Python | C++ | HTML | CSS | JavaScript<br>📄 I write clean, modular code and love solving real-world problems  <br><br>“Code is poetry, especially when it makes life easier.”<br>
+👋 Hi, I’m Subhas Hegde <br>💡 Building AI tools that make information more accessible  <br>🧠 Currently working on: AI basied taxi booking app  <br>🛠️ Tech Stack: Java | Python | C++ | HTML | CSS | JavaScript<br>📄 I write clean, modular code and love solving real-world problems  <br><br>“Code is poetry, especially when it makes life easier.”<br>
 
 
 ## 🌐 Socials:
