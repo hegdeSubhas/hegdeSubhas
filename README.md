@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Building AI tools that make information more accessible<br>🧠 Currently Practicing DSA regularly<br>🛠️ Tech Stack: Java | HTML | CSS | JavaScript | NodeJS | MongoDB |  <br>📄 I write clean, modular code and love solving real-world problems
+💡 Building AI tools that make information more accessible<br>🧠 Currently Practicing DSA regularly<br>🛠️ Tech Stack: Java | SpringBoot | ReactJS | HTML | CSS | JavaScript | MongoDB |  <br>📄 I write clean, modular code and love solving real-world problems
 
 
 ## 🌐 Socials:
